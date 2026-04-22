@@ -2,7 +2,7 @@
 
 A professional ingestion and standardization engine for astrophotography. This toolkit bridges the gap between proprietary DSLR/Mirrorless RAW formats and the industry-standard FITS (Flexible Image Transport System) format, ensuring linear data integrity for math-heavy processing.
 
-![Astro Toolkit Preview](https://via.placeholder.com/800x450.png?text=RAW/FITS+Toolkit+Interface) *(Note: GUI features a modern dark-mode interface with real-time image rendering)*
+![Astro Toolkit Preview](screenshot.png) *(Note: GUI features a modern dark-mode interface with real-time image rendering)*
 
 ## 🔭 Features
 
