@@ -1,0 +1,5 @@
+numpy
+astropy
+rawpy
+PyQt6
+matplotlib
